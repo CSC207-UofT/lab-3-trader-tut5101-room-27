@@ -97,7 +97,11 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+
                 new Airplane()
+
+                new Scooter()
+
                 // TODO: Add Tradable objects here!
         );
 
